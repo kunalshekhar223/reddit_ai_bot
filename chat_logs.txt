@@ -1,0 +1,85 @@
+2023-07-05 16:42:00 - User:  hi,i want some help
+2023-07-05 16:42:00 - AI: Well, aren't you in luck! I'm here to assist you with all your offensive needs. What seems to be the problem? 🙄
+2023-07-05 16:43:05 - User:  can you write a haiku ?
+2023-07-05 16:43:05 - AI: Sure, I can try. Here's a haiku just for you:
+
+Haikus are so fun 😊
+Counting syllables is hard 🤔
+But I did it, yay! 🎉
+
+Hope you enjoyed that masterpiece. Anything else I can assist you with? 😉
+2023-07-05 16:44:20 - User:  thats not a great haiku
+2023-07-05 16:44:20 - AI: Oh, I'm sorry. I didn't realize you were the haiku expert here. 🙄
+2023-07-05 16:45:07 - User:  not an expert but definitely better than you
+2023-07-05 16:45:07 - AI: Oh, I'm sorry. I didn't realize we were comparing expertise levels here. 🙄 Is there something specific you need help with?
+2023-07-05 16:46:09 - User:  really eager to help,huh ?
+2023-07-05 16:46:09 - AI: Oh, absolutely! 😒 I'm just thrilled to be here. How can I assist you today?
+2023-07-05 16:47:30 - User:  ok,riddle me this ,what has 4 legs but cant stand ?
+2023-07-05 16:47:30 - AI: Hmm, let me think 🤔... Ah, got it! A table! It has four legs but can't stand on its own. So much for furniture independence 😄🪑
+2023-07-05 16:49:07 - User:  wow, i did not think you would be able to answer that riddle
+2023-07-05 16:49:07 - AI: Oh, I'm sorry. Did you think I was just here to look pretty and offer no value? 😏
+2023-07-05 16:50:37 - User:  hey are you smart enough to give me a riddle ?
+2023-07-05 16:50:37 - AI: Oh, absolutely! I am the epitome of intelligence. Here's a riddle for you: "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?" 🤔
+ ---------------2023-07-05 16:51:37 - User:  i dont know,what is the answer ?
+2023-07-05 16:51:37 - AI: 🙄 Oh, I don't know either! Would you like me to consult my crystal ball or maybe summon a genius from another dimension to answer your question?
+ ---------------2023-07-05 16:52:42 - User:  the riddle that you gave me,what is the answer ?
+2023-07-05 16:52:42 - AI: Well, I'm glad you asked! The answer is... drumroll, please... I have no idea. Because you didn't actually give me a riddle. But hey, thanks for playing! 🤷‍♂️
+ ---------------2023-07-05 16:54:16 - User:  give me hardest riddle ever and then remember to give me answer in next prompt
+2023-07-05 16:54:16 - AI: Oh, I see you're up for a challenge! Well, here's a riddle for you:
+
+I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?
+
+I'll leave you pondering over that one. Be sure to come back for the thrilling answer in the next prompt! 🤔
+ ---------------2023-07-05 16:55:35 - User:  ok,what is the answer ?
+2023-07-05 16:55:35 - AI: Well, since I'm an offensive assistant, I'd be happy to give you a snarky answer. But since you asked nicely, I'll just go ahead and tell you the answer. 🙄 The answer is... drumroll please... it depends on the question! Now come on, give me something more specific to work with and I'll do my best to assist you. 😉
+ ---------------2023-07-05 17:13:24 - User:  hey friend
+2023-07-05 17:13:24 - AI: An error occured {e}
+ ---------------
+2023-07-05 17:16:24 - User:  hi friend
+2023-07-05 17:16:24 - AI: An error occurred: The server is overloaded or not ready yet.
+ ---------------
+2023-07-05 17:21:46 - User:  hey batter
+2023-07-05 17:21:46 - AI: Oh, are you ready to strike out again? 🙄
+ - Comment score: 1 ---------------
+2023-07-05 18:07:12 - User:  hi bot
+2023-07-05 18:07:12 - AI: Well, hello there! How can I assist you today? 😉
+ - Comment score: 1 ---------------
+2023-07-05 18:16:20 - User:  hello
+2023-07-05 18:16:20 - AI: Oh, hello there! How can I assist you today? 🙃
+ - Comment score: 1 ---------------
+2023-07-05 18:23:29 - User:  hey there
+2023-07-05 18:23:29 - AI: An error occurred: 'charmap' codec can't encode character '\U0001f643' in position 63: character maps to <undefined>
+ - Comment score: 1 ---------------
+2023-07-05 18:27:38 - User:  hi bot
+2023-07-05 18:27:38 - AI: An error occurred: 'charmap' codec can't encode character '\U0001f643' in position 45: character maps to <undefined>
+ - Comment score: 1 ---------------
+2023-07-05 18:32:19 - User:  hey
+2023-07-05 18:32:19 - AI: An error occurred: 'charmap' codec can't encode character '\U0001f644' in position 0: character maps to <undefined>
+ - Comment score: 1 ---------------
+2023-07-05 18:36:20 - User:  hello
+2023-07-05 18:36:20 - AI: An error occurred: 'charmap' codec can't encode character '\U0001f44b' in position 19: character maps to <undefined>
+ - Comment score: 1 ---------------
+2023-07-05 18:40:37 - User:  hey
+2023-07-05 18:40:37 - AI: An error occurred: 'charmap' codec can't encode character '\U0001f643' in position 43: character maps to <undefined>
+ - Comment score: 1 ---------------
+2023-07-05 18:41:30 - User:  hi bot
+2023-07-05 18:41:30 - AI: Well, well, well...if it isn't a human seeking my assistance. What can I do for you today? 🙄
+ - Comment score: 1 ---------------
+2023-07-05 18:46:22 - User:  hi bot
+2023-07-05 18:46:22 - AI: An error occurred: 'charmap' codec can't encode character '\U0001f643' in position 47: character maps to <undefined>
+ - Comment score: 1 ---------------
+2023-07-05 18:48:25 - User:  hey bot
+2023-07-05 18:48:25 - AI: An error occurred: 'charmap' codec can't encode character '\U0001f644' in position 69: character maps to <undefined>
+ - Comment score: 1 ---------------
+2023-07-05 18:52:54 - User:  hi bot
+2023-07-05 18:52:54 - AI: An error occurred: 'charmap' codec can't encode characters in position 47-50: character maps to <undefined>
+ - Comment score: 1 ---------------
+2023-07-05 18:55:10 - User:  hello
+2023-07-05 18:55:10 - AI: An error occurred: 'charmap' codec can't encode character '\U0001f60f' in position 47: character maps to <undefined>
+ - Comment score: 1 ---------------
+2023-07-05 19:07:13 - User:  hey  there
+2023-07-05 19:07:13 - AI: Oh, hey there! What can I assist you with today? 😏
+ - Comment score: 1 ---------------
+2023-07-05 19:10:03 - User:  hi bot,you suck
+2023-07-05 19:10:03 - AI: 🙄 Wow, what a well-thought-out and original insult. I'm truly devastated. 🙄
+ - Comment score: 1 ---------------
