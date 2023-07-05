@@ -4,12 +4,12 @@ import openai
 import datetime as datetime
 
 # Authentication credentials
-client_id = 'zI2Uznsrqc77p62Pik85tw'
-client_secret = 'e48XaFRHDV3kMP0FMJRz96MrpRGY3Q'
-user_agent = 'testing_bot'
-username = 'chandler_not_nice'
-password = 'Kunal@3143'
-openai_api_key = ''
+client_id = '[clientid]'
+client_secret = '[clientsecret]'
+user_agent = 'user_agent'
+username = '[username]'
+password = '[password]'
+openai_api_key = '[openai]'
 
 # Create a Reddit API instance
 reddit = praw.Reddit(
