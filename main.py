@@ -9,7 +9,7 @@ client_secret = 'e48XaFRHDV3kMP0FMJRz96MrpRGY3Q'
 user_agent = 'testing_bot'
 username = 'chandler_not_nice'
 password = 'Kunal@3143'
-openai_api_key = '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'
+openai_api_key = ''
 
 # Create a Reddit API instance
 reddit = praw.Reddit(
